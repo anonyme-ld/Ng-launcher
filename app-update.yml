@@ -1,0 +1,5 @@
+provider: generic
+url: https://download.nationsglory.fr/downloads
+updaterCacheDirName: nationsglory-updater
+publisherName:
+  - WebNations
