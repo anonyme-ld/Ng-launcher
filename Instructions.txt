@@ -1,0 +1,11 @@
+Limitations
+- Windows 11 24H2 or Later.
+- Custom Operating Systems.
+- Required C++ Restributables.
+
+Usage
+- Disable Vulnerable Driver Blocklist & Memory Integrity if you are in Windows 11.
+- Disable Windows Defender or any other Antivirus.
+- Open Syntex Spoofer.exe and spoof
+
+After spoofing check your serials.
